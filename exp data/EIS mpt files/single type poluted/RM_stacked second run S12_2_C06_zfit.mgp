@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
-	<Configuration Num="1" Version="1">
-		<Info Soft="EC-Lab" Version="1150" YYYY="2023" MM="5" DD="4" Demo="false" Beta="false"/>  <Windows Num="1">
+  <Configuration Num="1" Version="1">
+    <Info Soft="EC-Lab" Version="1150" YYYY="2023" MM="5" DD="4" Demo="false" Beta="false"/>
+    <Windows Num="1">
       <WindowsProp Name="" Left="363" Top="60" Height="754" Width="881" WState="2"/>
       <Graph Num="1">
         <GraphStyle HideOCVpts="false" XY1prop="true" GraphReprName="Markers style" GraphReprPredefined="true" BackColor="16777215" Left3DColor="16777215" Bottom3DColor="16777215" AxesFontName="Arial" AxesFontSize="8" ShowOrigin="true" OriginColor="33023" OriginStyle="0" OriginSize="1"/>
